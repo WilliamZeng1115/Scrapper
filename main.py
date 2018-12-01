@@ -2,10 +2,11 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import re
+import requests
 
 import time
 
-driver = webdriver.Chrome()
+driver = webdriver.PhantomJS()
 
 
 
@@ -39,6 +40,11 @@ for link in parsed_link:
     text_file.write("{Question: " + question + "} , " + "{Answer:" + answer_paragraph + "}" + "\n\n")
     text_file.close()
 
+
+
+
+r = requests.get('https://api.dialogflow.com/v1/intents', headers={'Authorization': '22c8b653a3b4412585993f625bef20a6'})
+print (r.status_code)
 #    id = links.getHref # "#i-just-graduated-can-i-still-come-to-an-event"
 #    id.removePound # "i-just-graduated-can-i-still-come-to-an-event"
 #    answer = driver.find_element_by_id(id) # how to get paragraph in a div

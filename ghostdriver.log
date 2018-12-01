@@ -1,0 +1,26 @@
+[INFO  - 2018-12-01T22:35:03.602Z] GhostDriver - Main - running on port 51569
+[INFO  - 2018-12-01T22:35:03.782Z] Session [58869510-f5b9-11e8-afa8-2f31bdebb83a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-01T22:35:03.782Z] Session [58869510-f5b9-11e8-afa8-2f31bdebb83a] - page.customHeaders:  - {}
+[INFO  - 2018-12-01T22:35:03.782Z] Session [58869510-f5b9-11e8-afa8-2f31bdebb83a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-01T22:35:03.782Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 58869510-f5b9-11e8-afa8-2f31bdebb83a
+[ERROR - 2018-12-01T22:35:04.480Z] Session [58869510-f5b9-11e8-afa8-2f31bdebb83a] - page.onError - msg: TypeError: undefined is not an object (evaluating '_detectBrowser2.default.version')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-12-01T22:35:04.480Z] Session [58869510-f5b9-11e8-afa8-2f31bdebb83a] - page.onError - stack:
+  (anonymous function) (https://mlh.io/cdn-cgi/apps/body/Q49FJ_9jyENK9J0uPJURc0KQTVI.js:6)
+  (anonymous function) (https://mlh.io/cdn-cgi/apps/body/Q49FJ_9jyENK9J0uPJURc0KQTVI.js:9)
+  __webpack_require__ (https://mlh.io/cdn-cgi/apps/body/Q49FJ_9jyENK9J0uPJURc0KQTVI.js:2)
+  (anonymous function) (https://mlh.io/cdn-cgi/apps/body/Q49FJ_9jyENK9J0uPJURc0KQTVI.js:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-12-01T22:35:04.772Z] Session [58869510-f5b9-11e8-afa8-2f31bdebb83a] - page.onError - msg: ReferenceError: Can't find variable: Symbol
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-12-01T22:35:04.772Z] Session [58869510-f5b9-11e8-afa8-2f31bdebb83a] - page.onError - stack:
+  (anonymous function) (https://mlh.io/assets/application-532a54a15492685e504cb24e3e950c14.js:13)
+  init (https://mlh.io/assets/application-532a54a15492685e504cb24e3e950c14.js:13)
+  (anonymous function) (https://mlh.io/assets/application-532a54a15492685e504cb24e3e950c14.js:13)
+  t (https://mlh.io/assets/application-532a54a15492685e504cb24e3e950c14.js:12)
+  (anonymous function) (https://mlh.io/assets/application-532a54a15492685e504cb24e3e950c14.js:13)
+
+  phantomjs://platform/console++.js:263 in error
