@@ -110,3 +110,703 @@ Protip: Invite your friends to come to the hackathon too! That way you’re guar
 
 {Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
 
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+
+{Question: what is a hackathon} , {Answer:A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build &amp; share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.}
+
+{Question: does major league hacking help with travel reimbursements} , {Answer:Unfortunately, Major League Hacking isn’t able to provide hackers with travel reimbursements. We have in certain cases provided it in the past but we’re always on the hunt to find more sustainable ways to bring more students to hackathons.}
+
+{Question: i just graduated can i still come to an event} , {Answer:Yes. Anyone who has graduated within the last 12 months is still eligible to attend an MLH Member Event hackathon. After that, there’s plenty of non-student hackathons that exist for you to consider attending.}
+
+{Question: what if i don t know how to code} , {Answer:Not a problem! The entire Major League Hacking team knew very little when they each attended their very first hackathon. It’s entirely irrelevant what your experience is going into a hackathon, it’s more about your interest in technology. Every MLH Member Event is passionate about making their hackathons very welcoming and beginner-friendly.
+
+If you’re wanting to learn how to code outside of a hackathon, there’s a fantastic blog post that you should read. After, you should check out the following: Treehouse, Codecademy and the Major League Hacking blog to get started.}
+
+{Question: will i annoy people if i ask them questions} , {Answer:Not at all! This is a common misconception about hackathons and in actual fact, it’s the complete opposite. The environment at these events are designed specifically to encourage everyone to have fun and help each other. If you’re ever stuck on anything, go find a volunteer who might able to help and if not, they will almost certainly know who can.}
+
+{Question: what if i don t know anybody there} , {Answer:Not to worry! You’ll meet people when you get there. Everybody’s very friendly. A lot of people go to hackathons without teams. So it’s perfectly normal to go around to people, tell them you’re looking for a team, and ask if you can help out.
+
+Hackathons will often run team-matching sessions at the start to help you meet people. And you can often join a facebook group for the event beforehand and post there to find potential teammates.
+
+Protip: Invite your friends to come to the hackathon too! That way you’re guaranteed to have at least one familiar face.}
+
+{Question: what if i don t have an idea} , {Answer:That’s normal. Most people don’t have an idea before they get to the event. But once you start talking to other people, you might come up with something. You can also work with somebody else on their idea if you like it. And there will be prizes at the event which might help give you some ideas. Don’t worry about it, you’ll find something to work on.}
+
+{Question: where can i sleep} , {Answer:Sometimes the organizers will have put aside a quiet, dark room you can get some rest. If that’s the case, there are usually two rooms separated by gender. Due to venue restrictions, sometimes you’re going to have to grab some sleep on a sofa or on the ground beside your table. Either way, you should bring a sleeping bag and maybe a pillow to the event. Sleeping at hackathons isn’t always the most comfortable arrangement, but it’s absolutely worth it for the experience.}
+
+{Question: will there be food} , {Answer:Absolutely! Your meals for the weekend will be free and there’ll be plenty of snacks and drinks to keep you energized. If you’ve got specific dietary requirements, you should let the event organizers know and they’ll be more than happy to make arrangements.}
+
+{Question: what if i don t want to present my hack} , {Answer:You might think your project isn’t impressive or it might not be finished so you don’t want to present it. You should present it anyway! Honestly, hackathons isn’t about being the best or being competitive. It’s all about having fun, making friends and learning how to become better at things you care about. Presenting your hack gives you a chance to be proud of what you’ve done, and you should be proud.}
+
+{Question: great how can i get involved} , {Answer:Go ahead and visit the Major League Hacking website for a list of upcoming hackathons in the North American and European seasons. If your region or area isn’t represented, you should get in touch and we’ll discuss how we can change that.}
+

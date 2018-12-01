@@ -3,6 +3,8 @@ from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 import re
 import requests
+import json
+
 
 import time
 
@@ -25,6 +27,7 @@ def cleanhtml(raw_html):
 html = b
 parsed_html = BeautifulSoup(html)
 parsed_link = parsed_html.find_all("a")
+counter = 0
 for link in parsed_link:
     href = link.get('href')
     id = href.replace('#', '')
@@ -35,16 +38,57 @@ for link in parsed_link:
     answer_paragraph = cleanhtml(str(parsed_answer.find('p')))
     question = id.replace('-', ' ')
 
+    counter = counter + 1
 
-    text_file = open("./Output.txt", "a")
-    text_file.write("{Question: " + question + "} , " + "{Answer:" + answer_paragraph + "}" + "\n\n")
-    text_file.close()
+#    text_file = open("./Output.txt", "a")
+#    text_file.write("{Question: " + question + "} , " + "{Answer:" + answer_paragraph + "}" + "\n\n")
+#    text_file.close()
 
-
-
-
-r = requests.get('https://api.dialogflow.com/v1/intents', headers={'Authorization': '22c8b653a3b4412585993f625bef20a6'})
-print (r.status_code)
+    d = json.dumps({
+                   "contexts": [],
+                   "events": [],
+                   "fallbackIntent": False,
+                   "name": "question number " + str(counter),
+                   "priority": 500000,
+                   "responses": [
+                                 {
+                                 "action": "add.list",
+                                 "affectedContexts": [],
+                                 "defaultResponsePlatforms": {
+                                 "google": True
+                                 },
+                                 "messages": [
+                                              {
+                                              "platform": "google",
+                                              "textToSpeech": answer_paragraph,
+                                              "type": "simple_response"
+                                              },
+                                              {
+                                              "speech": answer_paragraph,
+                                              "type": 0
+                                              }
+                                              ],
+                                 "parameters": [],
+                                 "resetContexts": False
+                                 }
+                                 ],
+                   "templates": [],
+                   "userSays": [
+                                {
+                                "count": 0,
+                                "data": [
+                                         {
+                                         "text": question,
+                                         "userDefined": True
+                                         }
+                                         ]
+                                }
+                                ],
+                   "webhookForSlotFilling": False,
+                   "webhookUsed": False
+                   })
+    r = requests.post('https://api.dialogflow.com/v1/intents?v=20150910', data=d, headers={'content-type': 'application/json', 'Authorization':'Bearer '})
+    print (r.content.decode())
 #    id = links.getHref # "#i-just-graduated-can-i-still-come-to-an-event"
 #    id.removePound # "i-just-graduated-can-i-still-come-to-an-event"
 #    answer = driver.find_element_by_id(id) # how to get paragraph in a div
@@ -53,17 +97,3 @@ print (r.status_code)
 #    print ('ITEM NUMBER ' + str(COUNT) + str(links))
 
 
-#search_bar = driver.find_element_by_id("lst-ib")
-#search_bar.send_keys("Nasa Vans Hoodie Canada")
-#search_bar.send_keys(Keys.ENTER)
-#
-#
-#driver.get("https://www.facebook.com")
-#
-#time.sleep(1)
-#user_name = driver.find_element_by_xpath('//*[@id="email"]')
-#
-#user_name.click()
-#user_name.send_keys('alvin kwan')
-#
-#driver.find_element_by_id('email')
